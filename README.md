@@ -1,4 +1,4 @@
-[![HEADER](https://github.com/Dodikxon/Dodikxon/blob/main/assets/Header.gif)](https://www.linkedin.com/in/dodikxon/)
+<img style="position: relative; left: 50%;" src="https://github.com/Dodikxon/Dodikxon/blob/main/assets/Header.gif">
 
 #### ABOUT ME
 ___
