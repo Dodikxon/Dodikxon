@@ -5,6 +5,7 @@ ___
 + #### I`m a junior web developer
 + #### I found my first job as a web developer: 24.10.2022 
 + #### At the moment I want to go to backend or fullstack
++ #### I would like to leave Russia soon, so I am looking for a job abroad
 
 ## Frontend
 ___
