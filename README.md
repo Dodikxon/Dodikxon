@@ -12,7 +12,6 @@ ___
 
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS)
-![SCSS](https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=SCSS)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![JQuery](https://img.shields.io/badge/JQuery-000000?style=for-the-badge&logo=JQuery)
