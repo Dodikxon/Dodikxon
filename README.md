@@ -42,3 +42,7 @@ ___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/dodikxon/)
 [![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK)](https://vk.com/dodikxon/)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/dodikxon)
+
+## STATISTIC
+___
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DODIKxon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
